@@ -1,5 +1,3 @@
-Personalized Team Collaboration Recommendations and Interventions using AI
-=============================================================================================================================================
 
 Effective project management and collaboration among team members are critical for successful innovation management. In this chapter, we will explore how AI can improve project management and collaboration by providing personalized team collaboration recommendations and interventions.
 

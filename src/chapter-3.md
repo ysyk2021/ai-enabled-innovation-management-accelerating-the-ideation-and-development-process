@@ -1,5 +1,3 @@
-Chapter 3: Implementing AI in Idea Generation and Validation
-============================================================
 
 Innovation management requires effective idea generation and validation to develop successful products and services. In this chapter, we will explore how AI can be implemented in idea generation and validation to accelerate the ideation and development process.
 

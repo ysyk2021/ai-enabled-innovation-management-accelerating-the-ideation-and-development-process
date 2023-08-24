@@ -1,5 +1,3 @@
-Predictive Analytics and Forecasting for Idea Selection and Prioritization
-========================================================================================================================================
 
 Idea generation and validation are critical steps in the innovation management process. In this chapter, we will explore how AI can be used to enhance idea selection and prioritization through predictive analytics and forecasting.
 

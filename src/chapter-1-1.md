@@ -1,5 +1,3 @@
-Understanding the Role of AI in Innovation Management
-==================================================================================================================
 
 Innovation management is a critical process for organizations seeking to stay competitive in rapidly evolving industries. In recent years, artificial intelligence (AI) has emerged as a powerful tool for enhancing innovation management processes. In this chapter, we will explore the role of AI in innovation management.
 

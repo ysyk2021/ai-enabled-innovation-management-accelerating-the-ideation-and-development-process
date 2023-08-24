@@ -1,5 +1,3 @@
-Selecting the Right Tools for Your Innovation Management Needs
-=====================================================================================================================================
 
 Innovation management is a complex process that requires the use of advanced tools and technologies to be effective. In this chapter, we will explore how to select the right tools for your organization's innovation management needs.
 

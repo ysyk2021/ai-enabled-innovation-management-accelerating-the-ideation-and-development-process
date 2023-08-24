@@ -1,5 +1,3 @@
-Automated Patent and Trademark Search using AI
-===========================================================================================================================
 
 Innovation often involves creating new intellectual property, including patents and trademarks. However, managing intellectual property can be a complex and time-consuming process. In this chapter, we will explore how AI can streamline intellectual property and patent management by automating patent and trademark searches.
 

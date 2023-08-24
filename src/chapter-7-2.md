@@ -1,5 +1,3 @@
-Mitigating Risks and Ensuring Compliance
-=================================================================================================================
 
 As AI becomes more prevalent in innovation management, it is important to prioritize ethics and avoid biases that may lead to discrimination or unfair treatment. In this chapter, we will explore how to mitigate risks and ensure compliance when implementing AI-powered tools in innovation management.
 

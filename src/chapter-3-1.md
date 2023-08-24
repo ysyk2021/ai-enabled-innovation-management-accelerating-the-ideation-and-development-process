@@ -1,5 +1,3 @@
-Using AI for Idea Generation and Validation
-=========================================================================================================
 
 Idea generation and validation are critical steps in the innovation management process. In this chapter, we will explore how AI can be used to enhance idea selection and prioritization through advanced techniques for idea generation and validation.
 

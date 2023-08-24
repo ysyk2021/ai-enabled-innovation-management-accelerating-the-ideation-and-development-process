@@ -1,5 +1,3 @@
-Chapter 2: Tools and Technologies for AI-Driven Innovation Management
-=====================================================================
 
 Innovation management is a complex process that requires the use of advanced tools and technologies to be effective. In this chapter, we will explore some of the available tools and technologies that can be used for AI-driven innovation management.
 

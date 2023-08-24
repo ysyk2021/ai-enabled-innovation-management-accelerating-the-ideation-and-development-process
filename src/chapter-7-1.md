@@ -1,5 +1,3 @@
-Importance of Ethical and Unbiased Innovation Management Practices
-===========================================================================================================================================
 
 As AI becomes more prevalent in innovation management, it is important to prioritize ethics and avoid biases that may lead to discrimination or unfair treatment. In this chapter, we will explore the importance of ethical and unbiased innovation management practices in AI-enabled innovation management.
 

@@ -1,5 +1,3 @@
-Chapter 7: Managing Ethics and Bias in AI-Enabled Innovation Management
-=======================================================================
 
 In this chapter, we will explore the importance of ethical and unbiased innovation management practices when implementing AI-powered tools. We will also discuss strategies for mitigating risks and ensuring compliance with legal and regulatory requirements.
 
