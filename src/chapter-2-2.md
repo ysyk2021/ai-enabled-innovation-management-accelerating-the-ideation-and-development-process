@@ -1,5 +1,4 @@
-Chapter 11: Selecting the Right Tools for Your Innovation Management Needs
-==========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Introduction
 ------------

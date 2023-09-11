@@ -1,5 +1,4 @@
-Chapter 8: AI-Driven Intellectual Property and Patent Management Assistance
-===========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Introduction
 ------------

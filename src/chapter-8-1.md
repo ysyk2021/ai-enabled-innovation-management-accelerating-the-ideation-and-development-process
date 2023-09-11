@@ -1,5 +1,4 @@
-Chapter 19: Emerging Trends in AI for Innovation and Product Development
-========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Introduction
 ------------
